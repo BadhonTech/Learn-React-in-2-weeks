@@ -1,8 +1,10 @@
-# 🌀 Learn React Basics  
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React Logo">
 </p>
+
+
+
+## 🌀 Learn React Basics  
 
 Welcome to the **Learn React Basics** repository! 🚀 This repo helps you quickly understand React fundamentals and start building web apps.  
 
@@ -25,10 +27,7 @@ Happy learning! 🎉
 # How to Create a React App
 
 This guide will walk you through the steps to create a React app using 
-```
-create-react-app
-```
-, the most popular tool for bootstrapping React applications.
+`create-react-app`, the most popular tool for bootstrapping React applications.
 
 ### **Step 1: Install Node.js and npm**
 Ensure you have **Node.js** and **npm** installed. Download and install them from [nodejs.org](https://nodejs.org/).
