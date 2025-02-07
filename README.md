@@ -24,40 +24,56 @@ Happy learning! 🎉
 
 # How to Create a React App
 
-This guide will walk you through the steps to create a React app using ```create-react-app```, the most popular tool for bootstrapping React applications.
+This guide will walk you through the steps to create a React app using 
+```
+create-react-app
+```
+, the most popular tool for bootstrapping React applications.
 
 ### **Step 1: Install Node.js and npm**
 Ensure you have **Node.js** and **npm** installed. Download and install them from [nodejs.org](https://nodejs.org/).
 
 Verify the installation:
-```node -v```
-```npm -v```
+```
+node -v
+```
+```
+npm -v
+```
 
 ---
 
 ### **Step 2: Create a React App**
 Use **Create React App** to set up a new React project:
-```npx create-react-app my-app```
+```
+npx create-react-app my-app
+```
 Replace `my-app` with your project name.
 
 ---
 
 ### **Step 3: Navigate to the Project Directory**
 Move into the project folder
-```cd my-app```
+```
+cd my-app
+```
 
 ---
 
 ### **Step 4: Start the Development Server**
 Run the app:
-```npm start```
+```
+npm start
+```
 Your app will open in the browser at `http://localhost:3000`.
 
 ---
 
 ### **Step 5: Build for Production**
 When ready to deploy, create a production build:
-```npm run build```
+```
+npm run build
+```
 
 ## 📌 Introduction to React  
 React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage state efficiently.  
