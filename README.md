@@ -22,6 +22,36 @@ Check out [`learn-react.md`](./learn-react.md) and start coding!
 
 Happy learning! 🎉
 
+# How to Create a React App
+
+This guide will walk you through the steps to create a React app using `create-react-app`, the most popular tool for bootstrapping React applications.
+
+---
+
+## Prerequisites
+
+Before you start, ensure you have the following installed on your system:
+
+1. **Node.js**: React requires Node.js (version 14 or higher recommended).
+   - Download and install Node.js from [https://nodejs.org](https://nodejs.org).
+   - Verify the installation by running:
+     ```bash
+     node -v
+     npm -v
+     ```
+
+2. **Code Editor**: Use a code editor like [Visual Studio Code](https://code.visualstudio.com/).
+
+---
+
+## Step 1: Install `create-react-app`
+
+`create-react-app` is a command-line tool that sets up a new React project with a modern build configuration.
+
+Run the following command to install it globally:
+
+```npm install -g create-react-app```
+
 # Learn React Basics and Start Making Apps  
 
 ## 📌 Introduction to React  
